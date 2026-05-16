@@ -49,17 +49,12 @@ The complete aircraft geometry was developed using OpenVSP.
 
 ## Aircraft Render
 
-![Aircraft Render](figures/aircraft_render.png)
+![Aircraft Render](aircraft_render.png)
 
 ## Top View
 
-![Top View](figures/top_view.png)
+![Top View](top_view.png)
 
-## Side View
-
-![Side View](figures/side_view.png)
-
----
 
 # Mass Properties
 
@@ -73,7 +68,7 @@ Computed center of gravity:
 
 ## Mass Properties Visualization
 
-![Mass Properties](figures/mass_properties.png)
+![Mass Properties](mass_properties.png)
 
 ---
 
@@ -97,15 +92,15 @@ Main results:
 
 ## Parasite Drag Breakdown
 
-![Parasite Drag](figures/parasite_drag.png)
+![Parasite Drag](parasite_drag.png)
 
 ## Lift Curve
 
-![CL Alpha Curve](figures/cl_alpha_curve.png)
+![CL Alpha Curve](cl_alpha_curve.png)
 
 ## Aerodynamic Polar
 
-![Polar Curve](figures/polar_curve.png)
+![Polar Curve](polar_curve.png)
 
 ---
 
@@ -129,7 +124,7 @@ C_{l\beta} = -0.111
 
 ## Stability Derivatives
 
-![Stability Derivatives](figures/stability_derivatives.png)
+![Stability Derivatives](stability_derivatives.png)
 
 ---
 
@@ -151,11 +146,6 @@ Computed trim values:
   \delta_{trim} = 1.12^\circ
   \]
 
-## Trim Conditions
-
-![Trim Conditions](figures/trim_conditions.png)
-
----
 
 # Dynamic Modes
 
@@ -169,11 +159,6 @@ Analyzed modes include:
 - Dutch roll
 - Spiral mode
 
-## Modal Analysis
-
-![Modal Analysis](figures/modal_analysis.png)
-
----
 
 # Tools and Software
 
